@@ -37,7 +37,14 @@ Run this command in your terminal:
 ```bash
 brew tap forshaws/homebrew-oboi
 brew install oboi
+```
 
+
+Uninstall
+Run this command in your terminal:
+
+```bash
+brew uninstall oboi
 ```
 
 
@@ -49,14 +56,12 @@ Example usage commands:
 
 ```bash
 oboi check --apikey=<yourapikey> joy1@walletx-fakers.net 
-
 ```
 
 **note** Replace **<YOUR_API_KEY>** with the supplied one from TORIDION if you have one. **IF** you have no key you can omit the --apikey argument completely and use the free tier **10 per day** like this:
 
 ```bash
 oboi check joy1@walletx-fakers.net
-
 ```
 
 
@@ -65,7 +70,6 @@ oboi will return the full API result in JSON if you include the --json flag. Exa
 
 ```bash
 oboi check --json joy1@walletx-fakers.net 
-
 ```
 
 **Recommended : Adding your apikey to the env so you dont have to keep entering it**
