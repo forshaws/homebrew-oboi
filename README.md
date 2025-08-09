@@ -4,16 +4,7 @@
 
 Installs **oboi&trade;** as a CLI tool. 
 
-Uses TORIDION's TQNN FraudTagger scoreUsername API to score a username or email against their enterprise fraud detection model.
-
-
-## 🌟 Features ## ⌨️ oboi&trade; command line tool ##
-
-![Alt Text](oboi_logo_colour.png)
-
-Installs **oboi&trade;** as a CLI tool. 
-
-Uses TORIDION's TQNN FraudTagger scoreUsername API to score a username or email against their enterprise fraud detection model.
+oboi&trade; uses TORIDION's TQNN FraudTagger scoreUsername API to score a username or email against their enterprise fraud detection model. It installs directly into your CLI environment so you can call it from your favourite scripting tools etc.
 
 
 ## 🌟 Features 
