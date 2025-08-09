@@ -6,6 +6,9 @@
 # Arduino build folder
 build/
 
+# Binary builds folder
+releases/
+
 # Arduino backups
 *.bak
 *.tmp
@@ -16,9 +19,9 @@ build/
 # Windows thumbs
 Thumbs.db
 
-# M5Burner ZIPs or package files
+#ZIPs or package files
 *.zip
-FraudTagger_Cardputer.zip
+
 
 # PlatformIO cache (if used)
 .pio/
