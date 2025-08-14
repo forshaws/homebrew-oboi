@@ -129,3 +129,5 @@ The source code may be modified and redistributed under the terms of the MIT lic
 - You can use/modify/share the app
 - API access is free up to 10/day
 - For more, see [Pricing & Terms](https://toridion.com/oboi/)
+
+Updated 14th August
